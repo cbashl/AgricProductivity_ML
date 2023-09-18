@@ -1,0 +1,31 @@
+﻿Variable Name,Description,Unit
+Order,Dataset code for geographic area,
+FAO,FAO country code,
+ISO3,ISO3 country code,
+Level,"Indicates geographic level (country/territory, region/subregion, income class, or world)",
+Country/Territory,Country/Territory name,
+Region,Region name,
+Subregion,Sub-region name,
+Income,"Income class of country, World Bank 2020",
+Year,Year,
+TFP_Index,Index of agricultural TFP,"Index, 2015=100"
+Outall_Index,Index of total agricultural output,"Index, 2015=100"
+Input_Index,Index of total agricultural input,"Index, 2015=100"
+Land_Index,Index of total agricultural land input,"Index, 2015=100"
+Labor_Index,Index of total agricultural labor input,"Index, 2015=100"
+Capital_Index,Index of total agricultural capital input,"Index, 2015=100"
+Materials_Index,Index of total agricultural materials input,"Index, 2015=100"
+Outall_Q,Quantity of total agricultural output,"$1000, constant 2015 prices"
+Outcrop_Q,Quantity of total crop output,"$1000, constant 2015 prices"
+Outanim_Q,Quantity of total animal output,"$1000, constant 2015 prices"
+Outfish_Q,Quantity of total aquaculture output,"$1000, constant 2015 prices"
+Land_Q,Quantity of total agricultural land,"1000 hectares, rainfed-cropland-equivalents"
+Labor_Q,Quantity of total agricultural labor,1000 persons economically active in agriculture
+Capital_Q,Quantity of total agricultural capital stock,"$million, constant 2015 prices"
+Machinery_Q,Quantity of total agricultural machinery stock,1000 metric horsepower (CV)
+Livestock_Q,Quantity of total agricultural animal inventories,1000 head of standard livestock units
+Fertilizer_Q,Quantity of total agricultural fertilizer,"Metric tons of inorganic N,P,K and organic N"
+Feed_Q,Quantity of total agricultural feed,106 Mcal of metabolizable energy
+Cropland_Q,Quantity of total cropland,1000 hectares
+Pasture_Q,Quantity of total permanent pasture,1000 hectares
+IrrigArea_Q,Quantity of total area equipped for irrigation,1000 hectares
